@@ -1,0 +1,5 @@
+[
+  {"name":"Little Havana Cooling Sites","status":"on track","metric":"3 sites mapped","source":"sample-record-1"},
+  {"name":"Biscayne Transit Alerts","status":"at risk","metric":"2 feeds stale","source":"sample-record-2"},
+  {"name":"Liberty City Food Access","status":"complete","metric":"5 partners contacted","source":"sample-record-3"}
+]
